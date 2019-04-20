@@ -1,0 +1,16 @@
+#title {
+  text-align: center;
+  color: red;
+  font-size: 30px;
+}
+
+#msg {
+  position: absolute;
+  top: 50px;
+  left: 0;
+  right: 0;
+  margin: auto;
+  border: red double;
+  text-align: center;
+  width: 600px;
+}
